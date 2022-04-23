@@ -4,7 +4,7 @@ This a Personal Project
 
 A news feed app using JSON API (mediastack)
 
-Some of the few Android Concepts used are as below :
+Some of the new Learnings :
 
   AsyncTaskLoader for getting data 
   RecylerView to show data
